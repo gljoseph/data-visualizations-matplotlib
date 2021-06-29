@@ -1,8 +1,8 @@
 # data-visualizations-matplotlib
-Create basic data visualizations using matplotlib
+#Create basic data visualizations using matplotlib
 
 #import matplotlib and create a variable
-import matplotlib.pyplot as plt # CODE HERE
+import matplotlib.pyplot as plt 
 import numpy as np
 m = np.linspace(0,10,11)
 
